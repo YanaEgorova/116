@@ -54,7 +54,9 @@ button:focus {
   outline: none;
 }
 /* ANIMATION START */
-
+.text-section .text {
+  max-width: 100%;
+}
 .loader__content {
   position: relative;
   margin: 0 auto;

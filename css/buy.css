@@ -223,7 +223,7 @@ select,
   padding-bottom: 2rem;
   margin-bottom: 2rem;
 }
-.bold {
+.bold, .bold span {
   text-transform: uppercase;
   font-size: 1.8rem;
   font-family: var(--title-font);
